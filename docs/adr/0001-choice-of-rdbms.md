@@ -27,8 +27,8 @@ is secure, robust and performant.
 
 ## Decision Outcome
 
-MySQL is selected as the solution as it aligns provides BFI with an RDMS
-with which they already have experience and are able to support and
+MySQL is selected as the solution as it provides BFI with an RDMS with
+which they already have experience and are able to support and
 maintaining in the long term.
 
 ### Positive Consequences

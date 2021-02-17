@@ -59,7 +59,7 @@ either.
 
 #### Pros
 
-* Fffers a free tier with basic features, with the option to upgrade /
+* Offers a free tier with basic features, with the option to upgrade /
   downgrade over time.
 * Easy and fast to get started with.
 * Has no deployment and ongoing hosting / infrastructure costs.

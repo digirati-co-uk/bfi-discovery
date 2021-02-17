@@ -36,12 +36,12 @@ used to produce these deliverables.
 ## Decision Outcome
 
 Kotlin is selected as the solution owing to Digirati's vast experience
-with the JVM, and when combined with Spring will make this the
-deliverables straightforward.
+with the JVM, and when combined with Spring will make the deliverables
+straightforward.
 
 Kotlin does not have the boilerplate cost associated with Java, and as a
-result internal there should be fewer barriers in identifying and
-understanding the domain specific code required for the deliverables.
+result there should be fewer barriers in identifying and understanding
+the domain specific code required for the deliverables.
 
 In addition, since Spring handles significant amounts of the heavy
 lifting, we do not expect to consume time writing code that is not
