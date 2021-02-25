@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: BFI
+  description: |
+    British Film Institute
+  links:
+    - title: Documentation
+      url: https://github.com/digirati-co-uk/bfi-discovery/tree/master/docs
+  annotations:
+    github.com/project-slug: digirati-co-uk/bfi-discovery
+spec:
+  type: website
+  owner: Digirati
+  lifecycle: development
